@@ -1,0 +1,16 @@
+Retail-Sales-EDA/
+│
+├── data/
+│   └── dataset.csv
+│
+├── images/
+│
+├── report/
+│   └── EDA_Report.pdf
+│
+├── src/
+│   └── main.py
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
